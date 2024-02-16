@@ -6,7 +6,6 @@ import { nanoid } from "nanoid";
 import ContactsForm from '../form/ContactsForm.jsx';
 import ContactList from '../contactsList/ContactsList.jsx';
 import Filter from '../filter/Filter.jsx';
-import ContactItem from "../ContactsItem/ContactsItem.jsx";
 import s from "./ContactsApp.module.css";
 
 class App extends Component {
